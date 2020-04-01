@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cust_array">
+        <item>{"name":"\"Jim Miller\"","code":"1248"}</item>
+    </string-array>
+</resources>
